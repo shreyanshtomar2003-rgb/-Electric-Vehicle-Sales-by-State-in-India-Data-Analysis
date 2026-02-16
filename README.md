@@ -161,6 +161,5 @@ This project successfully demonstrates a complete end-to-end data analytics work
 The results clearly indicate a strong upward trend in EV adoption, particularly after 2020, driven mainly by 2-Wheelers and 3-Wheelers. States such as Uttar Pradesh, Maharashtra, Karnataka, and Tamil Nadu have emerged as key contributors to national EV sales, highlighting regional leadership in electric mobility. The State Deep Dive and Segment & Policy dashboards further enable granular analysis, supporting informed decision-making for policymakers, businesses, and infrastructure planners.
 
 Overall, this project highlights how data-driven insights can support sustainable mobility initiatives, guide EV infrastructure planning, and inform market and policy strategies. The dashboards developed in this project are scalable and can be extended further with forecasting, city-level data, or charging infrastructure information, making this analysis a strong foundation for future EV-focused analytical work.
-Promote EV adoption in emerging states
 
-Use data-driven dashboards for policy evaluation and planning
+
